@@ -26,15 +26,15 @@ import sys
 import random
 from seleniumbase import get_driver
 #from seleniumbase import Driver
-#from webdriver_manager.firefox import GeckoDriverManager
+from webdriver_manager.firefox import GeckoDriverManager
 
 #cluster = MongoClient('mongodb+srv://theloveme1238:zx5LtPcgLpcpIh7D@cluster0.pzuhxov.mongodb.net/?retryWrites=true&w=majority')
 #db = cluster["my_database"]
 #collection = db["users"]        
 #driver = Driver(uc=True)
-driver = get_driver("firefox")
+#driver = get_driver("firefox")
 #options = webdriver.FirefoxOptions()
-#driver = webdriver.Firefox(executable_path=GeckoDriverManager().install(), options=options)
+driver = webdriver.Firefox(executable_path=GeckoDriverManager().install(), options=options)
 driver.implicitly_wait(10)
             
 driver.maximize_window()
