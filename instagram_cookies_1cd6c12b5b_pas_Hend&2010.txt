@@ -1,8 +1,0 @@
-.instagram.com	True	/	True	1727886509	mid	ZO4crAAEAAGCc0wmQtC8igYqXLvt
-.instagram.com	True	/	True	1724862509	ig_nrcb	1
-.instagram.com	True	/	True	1727886509	datr	pRzuZHFolkojm5gWJ5t2lGQ0
-.instagram.com	True	/	True	1724862519	sessionid	60154222764%3A3CaBIVB5WkAqlf%3A13%3AAYcD-fDYAzXaL9uv9vqHKKgxoEiBnwkYXY17lknvvw
-.instagram.com	True	/	True	1724862520	ig_did	0E17D3CD-15BB-4551-B894-B6678EEC51C0
-.instagram.com	True	/	True	1724776165	csrftoken	bKIQNo6L4Z5XQTJXRcXjZJS77yLsW8w8
-.instagram.com	True	/	True	0	rur	"NHA\05460154222764\0541724862565:01f74a0fcaa17ca4ede47459b5b15c0cd7513607c62193b95c8ebab61ccceebeca5453da"
-.instagram.com	True	/	True	1701102565	ds_user_id	60154222764
