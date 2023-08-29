@@ -802,7 +802,7 @@ def instagram_follow():
             if stop_def_instagram_follow == 'stop':
                 print('stop_def_instagram_follow')
                 break
-            driver.maximize_window()
+            #driver.maximize_window()
             driver.implicitly_wait(15)
             driver.find_element(By.CSS_SELECTOR, "a[class^='cursor earn_pages_button profile_view_img']").click()
             driver.switch_to.window(driver.window_handles[1])
@@ -839,7 +839,7 @@ def instagram_like():
             if stop_def_instagram_like == 'stop':
                 print('stop_def_instagram_like ')
                 break
-            driver.maximize_window()
+            #driver.maximize_window()
             driver.implicitly_wait(15)
             driver.find_element(By.CSS_SELECTOR, "a[class^='cursor earn_pages_button profile_view_img']").click()
             driver.switch_to.window(driver.window_handles[1])
